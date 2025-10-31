@@ -1,9 +1,14 @@
 ---
-title: "My Website"
+title: "Finn Swaty"
 ---
 
-Hello, Website!
+# Who am I?
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+My name is Finn Swaty and I am an ecologist with a focus on understanding forest ecosystems through quantitative approaches. I have experience working with diverse teams with a passion for bringing people together. I aim to collaborate and communicate while pushing for excellence in data collection, analyses, and experimental design. I have programming ability in multiple languages (R, Python, C++) with strong interest in applying cutting edge modeling and statistical approaches toward the conservation of ecosystems. Passion for designing and streamlining experimental approaches to most effectively understand current ecosystems under changing climatic conditions.
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+![Me measuring DBH on a large Quercus rubra! (Red Oak)](pics\me_dbh.jpg)
+
+# My Skills
+
+Programming experience in R (see "My Work"), C++ and Python 
+Proficiency in Arc Pro, Arc Online, Fieldmaps, and Survey123
