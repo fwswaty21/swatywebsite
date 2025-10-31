@@ -74,7 +74,7 @@ legend(x = 6, y = 0.6,
 *Figure axis titles added in post via powerpoint
 
 # A simplified example of a cool modeling approach!
-This is generalized example of the modeling approach used by my advisor Dr. Inés Ibáñez to predict survival of seedlings using environmental parameters: Markov Chain Monte Carlo (MCMC). This is taken from this website: https://theoreticalecology.wordpress.com/2010/09/17/metropolis-hastings-mcmc-in-r/
+This is generalized example of the modeling approach used by my advisor Dr. Inés Ibáñez to predict survival of seedlings using environmental parameters: Markov Chain Monte Carlo (MCMC) using a Metropolis-Hastings Algorithm. This is taken from this website: https://theoreticalecology.wordpress.com/2010/09/17/metropolis-hastings-mcmc-in-r/
 
 ```{r include = TRUE}
 # Making the base model with the true values
